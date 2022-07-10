@@ -3,6 +3,8 @@ It is a simple birthday card generator application in android.
 
 #Screenshots of Application
 
+## Please click the image below to enlarge.
+
 - Step 1
 
 ![image](https://user-images.githubusercontent.com/69806791/176993340-a278b1c2-8ffc-4686-807f-c7c6edc33710.png)
