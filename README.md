@@ -1,7 +1,7 @@
 # Birthday-Card-Application
 It is a simple birthday card generator application in android.
 
-#Screenshots of Application
+# Screenshots of Application
 
 ## Please click the image below to enlarge.
 
